@@ -1,0 +1,24 @@
+.container{
+    
+    background:navajowhite ;
+    width: 1000px;
+    height: 1000px;
+    margin: 50px;
+    display: flexbox;
+    box-shadow: 0 35px 55px;
+    text-align: center;
+}
+.container .title_page{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    font-size: 50px;
+
+}
+
+.container .form{
+    margin-top: 30px;
+    text-align: start;
+    font-size: 30px;
+    
+}
+  
